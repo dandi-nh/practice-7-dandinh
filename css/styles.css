@@ -18,3 +18,7 @@ h1, h2, h3 {
     text-transform: uppercase;
     line-height: 1;
 }
+
+.site-header {
+    display: flex;
+}
