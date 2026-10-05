@@ -36,3 +36,9 @@ h1, h2, h3 .logo{
 .logo {
     font-size: 28px;
 }
+
+nav ul {
+    display: flex;
+    gap: 32px;
+    list-style: none;
+}
