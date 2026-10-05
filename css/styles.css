@@ -12,7 +12,7 @@ body {
     line-height: 1.5;
 }
 
-h1, h2, h3 {
+h1, h2, h3 .logo{
     font-family: 'Anton', sans-serif;
     font-weight: 400;
     text-transform: uppercase;
@@ -21,4 +21,18 @@ h1, h2, h3 {
 
 .site-header {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 32px;
+    background: #111111;
+    color:#F4F1EA;
+}
+
+.site-header a {
+    color: #F4F1EA;
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 28px;
 }
