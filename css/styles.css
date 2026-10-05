@@ -109,3 +109,7 @@ h3 {
 .ink { background: #111111; color: #F2B705}
 .orange { background: #E0592A;}
 .yellow { background: #F2B705;}
+
+.info {
+    flex: 1;
+}
