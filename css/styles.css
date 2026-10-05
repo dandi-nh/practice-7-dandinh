@@ -83,3 +83,15 @@ h2 {
     font-size: 48px;
     margin-bottom: 20px;
 }
+
+h3 {
+    font-size: 32px;
+}
+
+.album {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 20px 0;
+    border-top: 3px solid #111111;
+}
