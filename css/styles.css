@@ -55,3 +55,16 @@ nav ul {
     color:#F4F1EA;
     text-align: center;
 }
+
+.hero h1 {
+    font-size: 96px;
+}
+
+.button {
+    padding: 12px 22px;
+    background: #F2B705;
+    color:#111111;
+    font-weight: 600;
+    text-decoration: none;
+}
+
